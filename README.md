@@ -1,3 +1,4 @@
+**<p align="center">CSCI 630: Maintenance Portfolio</p>**
 <ins>**Highlights of Contributions:**</ins>
 
 1.	[Test Case Development for Header Component](https://github.com/ChicoState/PantryNode/pull/245):<br />
